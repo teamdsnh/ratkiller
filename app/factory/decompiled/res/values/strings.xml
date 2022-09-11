@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Find My Devices</string>
+    <string name="device_admin_label">Device Admin</string>
+    <string name="device_description">Find My Devices by Google</string>
+</resources>
